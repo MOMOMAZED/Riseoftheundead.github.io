@@ -1,4 +1,4 @@
 # Riseoftheundead.github.io
 
-//Use "client.swf.swf"
-end
+//Use "Rise of the Undead.swf.swf"
+
